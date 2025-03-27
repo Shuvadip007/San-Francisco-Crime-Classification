@@ -23,7 +23,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sf-crime-classification.git
+   git clone https://github.com/Shuvadip007/sf-crime-classification.git
    ```
 2. Navigate to the project folder:
    ```bash
